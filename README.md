@@ -1,5 +1,6 @@
 # MATRIX-CALCULATOR
 A matrix calculator developed on JAVA
+![matrix calculator](https://user-images.githubusercontent.com/85040899/120836883-83577f00-c57f-11eb-99b0-0982b6d003d1.PNG)
 
 
 <h4>Tasks it performs</h4>
@@ -13,4 +14,4 @@ A matrix calculator developed on JAVA
   <li>Determinant</li>
 </ol>
 
-Note: Eigen Vectors GUI YET TO BE COMPLETED, IN PROGRESS
+Note: Eigen Vectors GUI YET TO BE COMPLETED, (IN PROGRESS)
